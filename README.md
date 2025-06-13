@@ -32,7 +32,6 @@ We used the **Bolt.New** platform to rapidly build and deploy the FinWise app. O
 - **Frontend**: React, Tailwind CSS, Framer Motion
 - **Data**: JSON-based quiz and tip content (static for MVP)
 - **State Management**: useState and useContext for game logic and user progress
-- **Deployment**: Bolt’s auto-deploy system with live preview links
 
 ---
 
